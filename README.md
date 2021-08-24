@@ -15,4 +15,5 @@ Usage:
    %embed Title // // Footer
    
    "// " is argument sepearator. (Space after is required too)
+4. To send your message press the backquote ("`", "~", 'Ё') key.
 ```
