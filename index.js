@@ -27,3 +27,6 @@ document.onkeypress = function (arg) {
 		parser(text)
 	}
 }
+
+
+//coded by Sweety187
