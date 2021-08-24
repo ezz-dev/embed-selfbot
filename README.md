@@ -1,5 +1,5 @@
 # Embed Self-bot
-A script for Discord console that allows you to send embeds.
+A script for Discord console that allows you to send embeds. Originally made by [2207-code](https://github.com/2207-code). Modified by [Sweety187](https://github.com/Sweety187).
 
 **Warning!** Please note that self-bots are not allowed and your Discord account may be banned for using this if you get reported.
 
