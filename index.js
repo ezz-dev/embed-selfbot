@@ -29,4 +29,4 @@ document.onkeypress = function (arg) {
 }
 
 
-//coded by Sweety187
+
