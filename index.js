@@ -2,7 +2,7 @@ function send(id, content, embed=null) {
     data = {content: content}
     if (embed) {data['embed'] = embed}
     // Get your authentification token - this is needed to send message on your behalf:
-    token = Object.values(webpackJsonp.push([[],{['']:(_,e,r)=>{e.cache=r.c}},[['']]]).cache).find(m=>m.exports&&m.exports.default&&m.exports.default.getToken!==''.a).exports.default.getToken()
+    token = (webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m=>m.exports&&m.exports.default&&m.exports.default.getToken!==''.a).exports.default.getToken()
     var r = new XMLHttpRequest()
     r.open('POST', `https://discord.com/api/channels/${id}/messages`, false)
     r.setRequestHeader('Authorization', token)
